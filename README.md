@@ -8,4 +8,4 @@
    src="https://github-readme-stats.vercel.app/api?username=kariukikinyanjui&show_icons=true&theme=tokyonight" 
 />
 ## github-readme-stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kariukikinyanjui&repo=github-readme-stats)
+[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kariukikinyanjui&repo=github-readme-stats)](https://github.com/kariukikinyanjui/github-readme-stats)
