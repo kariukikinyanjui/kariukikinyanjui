@@ -36,11 +36,3 @@ I'm currently involved in a 12-month software engineering program by ALX.
 <a href="http://www.github.com/kariukikinyanjui"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kariukikinyanjui&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/kariukikinyanjui" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariukikinyanjui&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/kariukikinyanjui/AirBnB_clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kariukikinyanjui&repo=AirBnB_clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kariukikinyanjui/simple_shell" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kariukikinyanjui&repo=simple_shell&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/kariukikinyanjui/printf" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kariukikinyanjui&repo=printf&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
