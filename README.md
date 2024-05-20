@@ -8,7 +8,7 @@ I'm currently involved in a 12-month software engineering program by ALX.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [michaelkariuki7@gmail.com](mailto:michaelkariuki7@gmail.com)
-* 🚀  I'm currently working on [Airbnb clone](http://github.com/kariukikinyanjui/AirBnB_clone/tree/master)
+* 🚀  I'm currently working on [Airbnb clone](https://github.com/kariukikinyanjui/Chronosphere)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Python projects
 * ⚡  Wakanda is Kenya
