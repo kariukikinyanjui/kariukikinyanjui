@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kariũki Kĩnyanjui
 =========================================================================================================================================
 
-Software engineer
+I'm a Software engineer
 -----------------
 
-I'm currently involved in a 12-month software engineering program by ALX.
+
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [michaelkariuki7@gmail.com](mailto:michaelkariuki7@gmail.com)
