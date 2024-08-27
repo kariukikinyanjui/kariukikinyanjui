@@ -9,7 +9,7 @@ I'm a Software engineer
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [michaelkariuki7@gmail.com](mailto:michaelkariuki7@gmail.com)
 * 🚀  I'm currently working on [Django deployment pipeline](https://github.com/kariukikinyanjui/deploy-django-linode)
-* 🧠  I'm learning Docker
+* 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Python projects
 * ⚡  Wakanda is Kenya
 
