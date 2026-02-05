@@ -1,38 +1,137 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kariũki Kĩnyanjui
-=========================================================================================================================================
+# Hi, I'm Kariũki Kĩnyanjui 👋
 
-I'm a Software engineer
------------------
+## Backend Software Engineer | AWS Solutions Architect | Cloud Engineering Specialist
 
+I'm a results-driven Backend Developer specializing in **Python** and **Django**, with a strong focus on building scalable, cloud-native solutions for the African market. Currently expanding my expertise into **AWS Solutions Architecture** and **DevOps**, I'm passionate about creating cost-effective, localized technology platforms that solve real-world problems—from multi-channel service platforms to serverless financial systems.
 
+🎯 **Pursuing AWS Solutions Architect Associate Certification** | 🌍 **Based in Nairobi, Kenya** | 💼 **Open to Remote Opportunities**
 
-* 🌍  I'm based in Nairobi
-* ✉️  You can contact me at [michaelkariuki7@gmail.com](mailto:michaelkariuki7@gmail.com)
-* 🚀  I'm currently working on [ecom-backend](https://github.com/kariukikinyanjui/ecom-backend)
-* 🧠  I'm learning Kubernetes
-* 🤝  I'm open to collaborating on Python projects
-* ⚡  Wakanda is Kenya
+---
 
-### Skills
+## 🚀 What I'm Building
 
+I'm focused on delivering **scalable backend systems** and **cloud infrastructure** that drive business value:
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+- 🏗️ **Multi-channel service platforms** with event-driven architecture
+- ☁️ **Serverless applications** using AWS Lambda, API Gateway, and DynamoDB
+- 🔧 **Infrastructure as Code** with Terraform and CloudFormation
+- 📦 **Containerized microservices** with Docker and Kubernetes
+- 💰 **Fintech backend solutions** optimized for African payment ecosystems
 
+---
 
-### Socials
+## 🛠️ Technical Stack
 
-<p align="left"> <a href="https://discord.com/users/kariuki_kinyanjui" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/kariukikinyanjui" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kariūki-kīnyanjui-056617125/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/22407231/kariuki-kinyanjui" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/kariukikinyanjui" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+### Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Badges
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<b>My GitHub Stats</b>
+**AWS Services:** Lambda, S3, DynamoDB, API Gateway, CloudFormation, ECS, RDS, SQS, EventBridge
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![LocalStack](https://img.shields.io/badge/LocalStack-0080FF?style=for-the-badge&logo=localstack&logoColor=white)
+
+**Currently Learning:** Kubernetes, AWS Solutions Architecture Patterns, Microservices Design
+
+---
+
+## 💼 Featured Projects
+
+### ☁️ [AWS Cloud Portfolio](https://github.com/kariukikinyanjui/aws-cloud-portfolio)
+A comprehensive collection of AWS cloud engineering projects demonstrating infrastructure automation and serverless architecture.
+- **Tech:** Terraform, AWS (Lambda, S3, DynamoDB, API Gateway), LocalStack
+- **Focus:** Infrastructure as Code, cost optimization, cloud-native design
+
+### 🚚 [Savannah Logistics](https://github.com/kariukikinyanjui/savannah-logistics)
+Cloud infrastructure for a logistics management platform with automated provisioning and scalability.
+- **Tech:** Terraform, AWS, HCL
+- **Highlights:** IaC patterns, automated deployments, multi-environment setup
+
+### 🏦 [Hybrid Banking Simulator](https://github.com/kariukikinyanjui/hybrid-banking-sim)
+Banking simulation platform showcasing serverless architecture and event-driven design.
+- **Tech:** AWS Lambda, DynamoDB, Terraform
+- **Focus:** Financial systems, transaction processing, audit trails
+
+### 🐍 [Iron Python Storage](https://github.com/kariukikinyanjui/iron-python-storage)
+Python-based storage solution demonstrating backend engineering best practices.
+- **Tech:** Python, AWS S3 integration
+- **Highlights:** Clean architecture, error handling, scalability
+
+### 📦 [Ledger DB](https://github.com/kariukikinyanjui/ledger-db)
+Database design for financial ledger systems with ACID compliance and audit capabilities.
+- **Tech:** Python, PostgreSQL
+- **Focus:** Data integrity, transaction management, schema design
+
+---
+
+## 🎓 Certifications & Learning
+
+🎯 **In Progress:** AWS Solutions Architect Associate (SAA-C03) - *Target: Q1 2026*
+
+📚 **Active Learning:**
+- Advanced Kubernetes orchestration
+- AWS Well-Architected Framework
+- Microservices architecture patterns
+- System design for scale
+
+---
+
+## 📊 GitHub Activity
 
 <a href="http://www.github.com/kariukikinyanjui"><img src="https://github-readme-stats.vercel.app/api?username=kariukikinyanjui&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kariukikinyanjui's GitHub stats" /></a>
 
 <a href="http://www.github.com/kariukikinyanjui"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kariukikinyanjui&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/kariukikinyanjui"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kariukikinyanjui&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/kariukikinyanjui" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariukikinyanjui&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🌍 About Me
+
+- 🌍 Based in **Nairobi, Kenya** - building for the African tech ecosystem
+- 🧠 Analytical **Logician (INTP)** - I thrive on solving complex structural problems
+- 🚀 Passionate about **scalable, localized solutions** for emerging markets
+- 💡 Focused on **cloud-native architecture** and **backend engineering excellence**
+- 🤝 Open to collaborating on **Python/Django projects** and **AWS infrastructure**
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **remote backend engineering and cloud architecture opportunities**, as well as consulting on scalable cloud solutions.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kariūki-kīnyanjui-056617125/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.github.com/kariukikinyanjui" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.x.com/kariukikinyanjui" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="mailto:michaelkariuki7@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
+
+---
+
+## 💬 Fun Fact
+
+When I'm not architecting cloud solutions, I'm exploring the intersection of technology and African innovation. **Building the future, one commit at a time.** 🚀
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/kariukikinyanjui">kariukikinyanjui</a></i>
+</p>
