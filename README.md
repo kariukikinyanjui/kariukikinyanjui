@@ -110,7 +110,7 @@ Database design for financial ledger systems with ACID compliance and audit capa
 I'm open to **remote backend engineering and cloud architecture opportunities**, as well as consulting on scalable cloud solutions.
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kariūki-kīnyanjui-056617125/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/kariũki-kĩnyanjui/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.github.com/kariukikinyanjui" target="_blank" rel="noreferrer">
