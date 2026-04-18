@@ -4,7 +4,7 @@
 
 I'm a results-driven Backend Developer specializing in **Python** and **Django**, with a strong focus on building scalable, cloud-native solutions for the African market. Currently expanding my expertise into **AWS Solutions Architecture** and **DevOps**, I'm passionate about creating cost-effective, localized technology platforms that solve real-world problems—from multi-channel service platforms to serverless financial systems.
 
-🎯 **Pursuing AWS Solutions Architect Associate Certification** | 🌍 **Based in Nairobi, Kenya** | 💼 **Open to Remote Opportunities**
+🌍 **Based in Nairobi, Kenya** | 💼 **Open to Remote Opportunities**
 
 ---
 
